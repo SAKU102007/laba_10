@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saku10/Desktop/Labs/semester_2/laba_3/laba_3_code/task1'
+relocations:     []
+...
